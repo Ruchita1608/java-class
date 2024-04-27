@@ -1,9 +1,10 @@
+import java.util.Random;
+
 public class ABeginning {
 
+    private static Random rnd = new Random();
     public static void main(String args[])
     {
-        System.out.println("Hello World");
-        System.out.println("First java Program");
 
     }
 }
